@@ -52,7 +52,7 @@ These bams are a sneak peak of the ones you will be creating in module 3. They a
 * [normal.zip](https://github.com/bioinformatics-ca/CAN_2021/blob/main/Module2/data/normal.zip)
 * [tumor.zip](https://github.com/bioinformatics-ca/CAN_2021/blob/main/Module2/data/tumor.zip)
 
-Download the files to your computer in one directory (folder) and unzip them. Remeber where you saved them!
+Download the files to your computer in one directory (folder) and unzip them. Remember where you saved them!
 
 # Visualization Part 1: Getting familiar with IGV
 
@@ -195,7 +195,7 @@ Load *tumor.bam* the same way you loaded *normal.bam*. You can resize the tracks
 # Visualization Part 4: Inspecting structural variants in NA12878
 Cancers often have large structural variants, like inversions, duplications, and translocations. We will examine some structural variants in a well-studied individual (NA12878) from the Platinum Genomes Project. Note that this is a normal sample, but think about how these variants might look in a tumor sample.
 
-First remove the coverage and alignment tracks for both the tumor and normal samples. Click on the top coverage track, then hold down the *shift* key and click on the bottom alignment track. The four trackcs should now be grey. Right click anywhere on the tracks and select *Remove Tracks*.
+First remove the coverage and alignment tracks for both the tumor and normal samples. Click on the top coverage track, then hold down the *shift* key and click on the bottom alignment track. The four tracks should now be grey. Right click anywhere on the tracks and select *Remove Tracks*.
 ![remove](https://github.com/bioinformatics-ca/CAN_2021/blob/main/Module2/images-cancer/remove-tracks.png)
 
 Now go to *File > Load from server* and click on the arrow next to *Platinum Genomes* to expand the selection. Click on *NA12878* (second from the top).
