@@ -290,9 +290,9 @@ R
 
 If you ever get stuck in R and want to return to the terminal, type `q()` to exit R.
 
-Your plots will be at http://##.oicrcbw.ca/Module6/Module6_Lab/de/ballgown/ref_only/Module6_Lab_Supplementary_R_output.pdf
+Your plots will be at http://##/Module6/Module6_Lab/de/ballgown/ref_only/Module6_Lab_Supplementary_R_output.pdf
 
-Remember to replace "##" with your instance number.
+Remember to replace "##" with your public IPv4 address.
 
 Compare your plots to the expected plots: [Module6_Lab_Supplementary_R_output.pdf](https://github.com/bioinformatics-ca/CAN_2021/raw/main/Module6/Module6_Lab_Supplementary_R_output.pdf)
 
